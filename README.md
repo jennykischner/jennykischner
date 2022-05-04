@@ -1,5 +1,5 @@
 
-   <p align="center"><img width=50% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pandaancha.mx%2Fnoticias%2Fque-es-lenguaje-de-programacion.html&psig=AOvVaw0lDIeCIY0Lg_o2E-VZZI1O&ust=1651782419749000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJitn8HXxvcCFQAAAAAdAAAAABAH"></p>height="auto" >
+   <p align="center"><img width=50% src="https://miro.medium.com/max/1000/1*UJkYsrYLJc0taD-ZY_D1mg.gif"></p>height="auto" >
 
 
 <h1 align="center">Hola! Soy Jennifer ✨</h1>
