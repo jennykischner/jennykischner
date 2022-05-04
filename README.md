@@ -1,4 +1,6 @@
-![Image text](https://user-images.githubusercontent.com/88462536/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg)
+<p align="center">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzBMJZ4BOd7-1JoyrRgUUURGLKI99w1Clrw&usqp=CAU" width="100%" height="auto" >
+</p>
 
 <h1 align="center">Hola! Soy Jennifer ✨</h1>
 <h3 align="center">📑💼 Front-End Jr Dev</h3>
