@@ -1,5 +1,5 @@
 
-   <p align="center"><img width=50% src="https://miro.medium.com/max/1000/1*UJkYsrYLJc0taD-ZY_D1mg.gif"></p>height="auto" >
+   <p align="center"><img width=50% src="https://miro.medium.com/max/1000/1*UJkYsrYLJc0taD-ZY_D1mg.gif">
 
 
 <h1 align="center">Hola! Soy Jennifer ✨</h1>
