@@ -1,6 +1,6 @@
-<p align="center">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzBMJZ4BOd7-1JoyrRgUUURGLKI99w1Clrw&usqp=CAU" width="100%" height="auto" >
-</p>
+
+   <p align="center"><img width=50% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pandaancha.mx%2Fnoticias%2Fque-es-lenguaje-de-programacion.html&psig=AOvVaw0lDIeCIY0Lg_o2E-VZZI1O&ust=1651782419749000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJitn8HXxvcCFQAAAAAdAAAAABAH"></p>height="auto" >
+
 
 <h1 align="center">Hola! Soy Jennifer ✨</h1>
 <h3 align="center">📑💼 Front-End Jr Dev</h3>
